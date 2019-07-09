@@ -8,17 +8,19 @@ Starting from simple SAP Cloud Portal, we will expand our business adding integr
 The repository contains the sample code created in this journey to help you to quickly get up to speed if you miss any episode.
 
 # The episodes
-* [Pilot - IaaS vs PaaS vs SaaS - from Zero to Cloud](https://youtu.be/80WIFfdOlN0)
-* [Episode 01 - SAP Cloud Platform Setup](https://youtu.be/L1ayHeOrWeY)
+* [Pilot - IaaS vs PaaS vs SaaS - from Zero to Cloud](https://youtu.be/80WIFfdOlN0)*
+* [Episode 01 - SAP Cloud Platform Setup](https://youtu.be/L1ayHeOrWeY)*
 * [Episode 02 - All about SAP Cloud Connector](https://youtu.be/ZYGu3Opqdd4)
 * [Episode 03 - Create a site with SAP Cloud Platform Portal](https://youtu.be/25pAmIIfK2I)
-* [Episode 04 - Download the source code on GitHub](https://youtu.be/Njv-9lpDnDg)
+* [Episode 04 - Download the source code on GitHub](https://youtu.be/Njv-9lpDnDg)*
 * [Episode 05 - Apply a custom theme to a site in SAP Cloud Platform](https://youtu.be/vPzp3MP2ysM)
 * [Episode 06 - Include custom widgets to SAP Cloud Platform Portal](https://youtu.be/J3yLupNIHo4)
 * Episode 07 - Not yet aired
 * Episode 08 - Not yet aired
 * Episode 09 - Not yet aired
 * Episode 10 - Not yet aired
+
+*episode does not have any code
 
 # Requirements
 The requirements to deploy the sample code in this repository, including hardware and software, are detailed in the videos.
