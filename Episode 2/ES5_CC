@@ -1,0 +1,15 @@
+#Password=<< Existing password/certificate removed on export >>
+#
+#Sat Apr 20 03:14:43 UTC 2019
+Description=ES5 Cloud Connector
+Type=HTTP
+Authentication=BasicAuthentication
+WebIDEUsage=odata_gen,odata_abap,bsp_execute_abap
+Name=ES5_CC
+Usage=Backend
+WebIDEEnabled=true
+URL=http\://es5\:8080
+ProxyType=OnPremise
+sap-client=002
+User=<your P-user>
+WebIDESystem=ES5

@@ -1,0 +1,16 @@
+#Password=<< Existing password/certificate removed on export >>
+#
+#Sat Apr 20 03:14:41 UTC 2019
+Description=ES5 Direct Connection
+Type=HTTP
+TrustAll=true
+Authentication=BasicAuthentication
+WebIDEUsage=odata_gen,odata_abap,bsp_execute_abap
+Name=ES5
+Usage=Backend
+WebIDEEnabled=true
+URL=https\://sapes5.sapdevcenter.com/
+ProxyType=Internet
+sap-client=002
+User=<your P-user>
+WebIDESystem=ES5
