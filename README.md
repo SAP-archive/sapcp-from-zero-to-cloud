@@ -5,7 +5,7 @@
 In this project we will build an end-to-end Intelligent Business using SAP Cloud Platform services.\
 Starting from simple SAP Cloud Portal, we will expand our business adding integration with Machine Learning, Conversational AI, SAP Fiori applications, SAP Workflow and Mobile applications.\
 \
-The repository contains the sample code created in this journey to help you to quickly get up to speed if you miss any episode.\
+The repository contains the sample code created in this journey to help you to quickly get up to speed if you miss any episode.
 
 # The episodes
 * [Pilot - IaaS vs PaaS vs SaaS - from Zero to Cloud](https://youtu.be/80WIFfdOlN0)
