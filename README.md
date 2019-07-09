@@ -1,5 +1,6 @@
 # FromZeroToCloud
-![FromZeroToCloud Logo](/logo.png)
+![FromZeroToCloud Logo](/Logo.png)\
+\
 "FromZeroToCloud" is a YouTube series (http://bit.ly/2xDvNOJ) showcasing SAP Cloud Platform.
 In this project we will build an end-to-end Intelligent Business using SAP Cloud Platform services.
 Starting from simple SAP Cloud Portal, we will expand our business adding integration with Machine Learning, Conversational AI, SAP Fiori applications, SAP Workflow and Mobile applications.
