@@ -1,0 +1,27 @@
+{
+	"format_version": 1,
+	"imports":
+		[{
+			"target_table": "pizzacloudrestaurants.db::cdsLocation.Location",
+			"source_data": {
+				"data_type": "CSV",
+				"file_name": "pizzacloudrestaurants.db::Location.csv",
+				"has_header": true
+			},
+			"import_settings": {
+				"import_columns": ["locationID", "name", "address", "city", "state", "postalCode", "country", "phone", "email" ]
+			},
+			"column_mappings": {
+				"locationID": 1,
+				"name": 2,
+				"address": 3,
+				"city": 4,
+				"state": 5,
+				"postalCode": 6,
+				"country": 7,
+				"phone": 8,
+				"email": 9
+			}
+		}
+	]
+}

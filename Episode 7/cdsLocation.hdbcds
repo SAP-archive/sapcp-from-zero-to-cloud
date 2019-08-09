@@ -1,0 +1,15 @@
+namespace pizzacloudrestaurants.db;
+
+context cdsLocation {
+    entity Location {
+        key locationID : Integer    not null;
+            name       : String(30) not null;
+            address    : String(50);
+            city       : String(30);
+            state      : String(20);
+            postalCode : String(10);
+            country    : String(20);
+            phone      : String(20);
+            email      : String(50);
+    };
+};
