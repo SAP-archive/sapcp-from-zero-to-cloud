@@ -1,0 +1,3 @@
+service {
+ "pizzacloudrestaurants.db::cdsLocation.Location" as "location";
+}

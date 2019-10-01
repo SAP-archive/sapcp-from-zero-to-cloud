@@ -1,0 +1,31 @@
+<mvc:View controllerName="northwind.customerList.controller.View1" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc"
+	displayBlock="true" xmlns="sap.m">
+	<ScrollContainer id="customerListScrollContainer" horizontal="false" vertical="true">
+		<List id="locationList" items="{/location}" noDataText="No location available">
+			<items>
+				<ObjectListItem title="{name}" type="Active" press="onListItemPress" number="" numberUnit="">
+					<firstStatus>
+						<ObjectStatus text="{status}" state="{ path: 'status', formatter: 'northwind.customerList.controller.View1.Formatter.status' }"/>
+					</firstStatus>
+					<attributes>
+						<ObjectAttribute text="{address}, {city} ({state}), {postalCode}, {country}"/>
+						<ObjectAttribute text="{phone}, {email}"/>
+					</attributes>
+				</ObjectListItem>
+				<StandardListItem title="{name}" description="{address}, {city} ({state}), {postalCode}, {country}" icon="" iconDensityAware="false"
+					iconInset="false" press="onListItemPress" type="Active"/>
+			</items>
+			<headerToolbar>
+				<Toolbar>
+					<Title text="Locations" level="H2"/>
+					<ToolbarSpacer/>
+				</Toolbar>
+			</headerToolbar>
+			<infoToolbar>
+				<Toolbar>
+					<Label text="Find us everywhere"/>
+				</Toolbar>
+			</infoToolbar>
+		</List>
+	</ScrollContainer>
+</mvc:View>
