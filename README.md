@@ -16,7 +16,7 @@ The repository contains the sample code created in this journey to help you to q
 * [Episode 05 - Apply a custom theme to a site in SAP Cloud Platform](https://youtu.be/vPzp3MP2ysM)
 * [Episode 06 - Include custom widgets to SAP Cloud Platform Portal](https://youtu.be/J3yLupNIHo4)
 * [Episode 07 - Let's create an HANA CDS artifact in Cloud Foundry](https://youtu.be/ZJSRPjdvjZQ)
-* Episode 08 - Not yet aired
+* [Episode 08 - Let's talk OData](http://bit.ly/2nFB7PV)
 * Episode 09 - Not yet aired
 * Episode 10 - Not yet aired
 
